@@ -69,5 +69,3 @@ Checkpoints were saved during the training process at regular intervals. Note th
 ## Conclusion
 
 This project successfully demonstrates the application of knowledge distillation for creating an efficient sentiment analysis system. By leveraging TinyBERT as the student model, the system achieves a significant reduction in model size and an increase in processing speed while preserving performance. This approach is especially beneficial for deploying models in environments with limited computational resources.
-
-For more details and implementation specifics, refer to the included notebook or script.
